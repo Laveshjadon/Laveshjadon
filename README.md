@@ -1,143 +1,102 @@
-<!-- ANIMATED BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Lavesh%20Jadon&fontSize=70&fontAlignY=40&animation=fadeIn&desc=ML%20Engineer%20%7C%20Data%20Storyteller%20%7C%20IIIT%20Student&descAlignY=65&descSize=25" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Lavesh%20Jadon&fontSize=80&fontAlignY=35&animation=twinkling&desc=IIIT%20Student%20|%20Aspiring%20Data%20Scientist%20|%20ML%20Researcher&descAlignY=60&descSize=25" width="100%"/>
 </div>
 
-<!-- ANIMATED TYPING TEXT -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=60&lines=Hello+World+%F0%9F%8C%8F;Welcome+to+My+Digital+Universe+%F0%9F%8C%8C;Machine+Learning+Engineer+%F0%9F%A4%96;Data+Storyteller+%F0%9F%93%8A;Building+Intelligent+Systems+%F0%9F%92%A1" alt="Typing Animation" />
-</div>
-
-<br/>
-
-<!-- SOCIALS & STATS ROW -->
-<div align="center">
-  
-  ![Visitors](https://komarev.com/ghpvc/?username=Laveshjadon&color=00FF00&style=for-the-badge&label=TOTAL+VISITORS)
-  ![GitHub followers](https://img.shields.io/github/followers/Laveshjadon?color=00FF00&logo=github&style=for-the-badge)
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laveshjadon24@gmail.com)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
-  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_PROFILE)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Solving+Complex+Data+Problems;Building+Neural+Networks;Mastering+SQL+%26+Python;Transforming+Insights+into+Action" alt="Typing Animation" />
 </div>
 
 <br/>
 
-<!-- QUICK INTRODUCTION -->
+## 🧑‍💻 About Me
+I am a passionate **Data Science & Machine Learning** enthusiast currently pursuing my degree at **IIIT**. My goal is to leverage computational intelligence to solve real-world problems. I enjoy the process of cleaning messy data, building predictive models, and visualizing complex results to tell a compelling story.
+
+- 🎓 **Education:** Student at Indian Institute of Information Technology (IIIT)
+- 🔭 **Current Focus:** Deep Learning & Neural Network Architectures
+- 🌱 **Learning:** MLOps, Cloud Computing (AWS), and Advanced NLP
+- 💬 **Ask me about:** Python, Scikit-Learn, and how to optimize a Perceptron
+
+<br/>
+
+## 🛠 My Technical Arsenal
+<table border="0" width="100%">
+  <tr>
+    <td width="25%" align="center"><b>Languages</b></td>
+    <td width="25%" align="center"><b>ML / DL</b></td>
+    <td width="25%" align="center"><b>Data Science</b></td>
+    <td width="25%" align="center"><b>Tools</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🚀 Featured Project Showcases
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Multi-Layer Perceptron (MLP)</h3>
+      <p>A deep-dive implementation of a Multi-Layer Perceptron from scratch using NumPy. This project demonstrates my understanding of backpropagation and gradient descent.</p>
+      <img src="https://img.shields.io/badge/Status-Complete-green?style=flat-square"/> 
+      <a href="https://github.com/Laveshjadon/Multi-Layer-Perceptron-MLP-"><b>[View Repository]</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📉 Perceptron Visualizer</h3>
+      <p>A Jupyter-based project focusing on the geometric interpretation of Perceptron learning. Visualizes the decision boundary as it adapts to training data.</p>
+      <img src="https://img.shields.io/badge/Status-Ongoing-blue?style=flat-square"/> 
+      <a href="https://github.com/Laveshjadon/ml-from-perceptron"><b>[View Repository]</b></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Analytics
 <div align="center">
-  
-  ```python
-  class LaveshJadon:
-      def __init__(self):
-          self.name = "Lavesh Jadon"
-          self.education = "IIIT Student"
-          self.role = "Machine Learning Engineer"
-          self.passion = "Transforming data into insights"
-          self.location = "India"
-          
-      def current_focus(self):
-          return "Building intelligent ML systems"
-          
-      def skills(self):
-          return ["Deep Learning", "Data Analysis", "MLOps", "AI Research"]
+  <img src="https://github-readme-stats.vercel.app/api?username=Laveshjadon&show_icons=true&theme=matrix&include_all_commits=true&count_private=true&border_radius=10" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laveshjadon&layout=compact&theme=matrix&border_radius=10" width="48%"/>
+</div>
 
+<br/>
 
-            ## 📊 **GitHub Analytics**
-  
-  <div align="center">
-    
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laveshjadon&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_radius=20&bg_color=0d1117&title_color=00FF00&icon_color=00FF00" alt="Lavesh's Stats"/>
-    
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Laveshjadon&theme=chartreuse-dark&hide_border=false&border_radius=20&background=0d1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak"/>
-    
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laveshjadon&layout=compact&theme=chartreuse-dark&border_radius=20&bg_color=0d1117&title_color=00FF00&langs_count=8&hide=jupyter%20notebook" alt="Top Languages"/>
-    
-  </div>
-  
-  <br/>
-  
-  ## 🏆 **GitHub Trophies**
-  
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Laveshjadon&theme=matrix&row=2&column=4&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-  </div>
-  
-</td>
+## 🗓️ Weekly Coding Activity
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laveshjadon&theme=matrix&hide_border=false" width="100%"/>
+</div>
 
-<td width="50%" valign="top">
+<br/>
 
-  ## ⚡ **Tech Arsenal**
-  
-  ### **Programming Languages**
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  
-  ### **Machine Learning & AI**
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-  
-  ### **Data Science Stack**
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-  
-  ### **Tools & Platforms**
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  
-  ### **Currently Learning**
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=databricks&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  
-</td>
+<div align="center">
+  <h3>🐍 Contribution Journey</h3>
+  <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?github_user_name=Laveshjadon&color_snake=%2300FF00&color_dots=%23161b22%2C%2300441b%2C%23006d2c%2C%23238b45%2C%2341ab5d" width="100%"/>
+</div>
 
-  ### 🤖 **ML Masterpiece**
-  ![Python](https://img.shields.io/badge/Python-100%25-blue)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
-  ![Stars](https://img.shields.io/github/stars/Laveshjadon/project1?style=flat-square)
-  
-  **Advanced Machine Learning model** with 95% accuracy
-  
-  [![View Project](https://img.shields.io/badge/View_Project-00FF00?style=for-the-badge&logo=github)](https://github.com/Laveshjadon/project1)
-  
-</td>
-<td width="33%" valign="top">
+<br/>
 
-  ### 📊 **Data Visualizer Pro**
-  ![Pandas](https://img.shields.io/badge/Pandas-Expert-green)
-  ![Plotly](https://img.shields.io/badge/Plotly-Interactive-purple)
-  ![Forks](https://img.shields.io/github/forks/Laveshjadon/project2?style=flat-square)
-  
-  **Interactive data visualization dashboard**
-  
-  [![Live Demo](https://img.shields.io/badge/Live_Demo-00FF00?style=for-the-badge&logo=vercel)](https://demo-link.com)
-  
-</td>
-<td width="33%" valign="top">
-
-  ### 🧠 **Deep Learning Research**
-  ![PyTorch](https://img.shields.io/badge/PyTorch-Research-red)
-  ![Papers](https://img.shields.io/badge/2+_Papers-published-blue)
-  ![Contributors](https://img.shields.io/github/contributors/Laveshjadon/project3?style=flat-square)
-  
-  **Cutting-edge DL research implementation**
-  
-  [![Read Paper](https://img.shields.io/badge/Read_Paper-00FF00?style=for-the-badge&logo=arxiv)](https://arxiv.org)
-  
-</td>
-Python        ████████████████████░░░░░   85.0%
-Jupyter       ██████████░░░░░░░░░░░░░░░   40.0%
-C++           ████████░░░░░░░░░░░░░░░░░   32.5%
-Markdown      █████░░░░░░░░░░░░░░░░░░░░   20.0%
-JavaScript    ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+## 📫 Let's Connect!
+<div align="center">
+  <a href="https://linkedin.com/in/lavesh-jadon"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:laveshjadon24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Laveshjadon&color=00FF00&style=for-the-badge&label=PROFILE+VIEWS" />
+</div>
